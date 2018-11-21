@@ -1,0 +1,45 @@
+c:\users\huz\documents\visual studio 2015\Projects\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+c:\users\huz\documents\visual studio 2015\Projects\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+c:\users\huz\documents\visual studio 2015\Projects\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+c:\users\huz\documents\visual studio 2015\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.csprojResolveAssemblyReference.cache
+c:\users\huz\documents\visual studio 2015\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.frmLogin.resources
+c:\users\huz\documents\visual studio 2015\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+c:\users\huz\documents\visual studio 2015\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.Cache
+c:\users\huz\documents\visual studio 2015\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+c:\users\huz\documents\visual studio 2015\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+c:\users\huz\documents\visual studio 2015\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.Forms.formHome.resources
+C:\Users\Huz\Documents\Visual Studio 2015\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.Forms.frmAdminLogin.resources
+C:\Users\Huz\Documents\Visual Studio 2015\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.UserControls.ucCreateUser.resources
+E:\oop\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+E:\oop\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+E:\oop\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+E:\oop\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+E:\oop\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+E:\oop\FinalProject\FinalProject\obj\Debug\FinalProject.csprojResolveAssemblyReference.cache
+E:\oop\FinalProject\FinalProject\obj\Debug\FinalProject.Forms.frmAdminLogin.resources
+E:\oop\FinalProject\FinalProject\obj\Debug\FinalProject.frmLogin.resources
+E:\oop\FinalProject\FinalProject\obj\Debug\FinalProject.Forms.formHome.resources
+E:\oop\FinalProject\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+E:\oop\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.Cache
+E:\oop\FinalProject\FinalProject\bin\Debug\DBFinalProject.mdb
+E:\oop\FinalProject\FinalProject\obj\Debug\FinalProject.UserControls.ucCreateUser.resources
+E:\oop\FinalProject\FinalProject\obj\Debug\FinalProject.UserControls.ucAdminReports.resources
+E:\oop\FinalProject\FinalProject\obj\Debug\FinalProject.UserControls.ucManageItems.resources
+E:\oop\FinalProject\FinalProject\obj\Debug\FinalProject.Forms.forgetPassword.resources
+E:\c#\oop\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+E:\c#\oop\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+E:\c#\oop\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+E:\c#\oop\FinalProject\FinalProject\bin\Debug\DBFinalProject.mdb
+E:\c#\oop\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+E:\c#\oop\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+E:\c#\oop\FinalProject\FinalProject\obj\Debug\FinalProject.Forms.frmAdminLogin.resources
+E:\c#\oop\FinalProject\FinalProject\obj\Debug\FinalProject.Forms.forgetPassword.resources
+E:\c#\oop\FinalProject\FinalProject\obj\Debug\FinalProject.frmLogin.resources
+E:\c#\oop\FinalProject\FinalProject\obj\Debug\FinalProject.Forms.formHome.resources
+E:\c#\oop\FinalProject\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+E:\c#\oop\FinalProject\FinalProject\obj\Debug\FinalProject.UserControls.ucAdminReports.resources
+E:\c#\oop\FinalProject\FinalProject\obj\Debug\FinalProject.UserControls.ucCreateUser.resources
+E:\c#\oop\FinalProject\FinalProject\obj\Debug\FinalProject.UserControls.ucManageItems.resources
+E:\c#\oop\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.Cache
+E:\c#\oop\FinalProject\FinalProject\obj\Debug\FinalProject.UserControls.Settings.resources
+E:\c#\oop\FinalProject\FinalProject\obj\Debug\FinalProject.csprojResolveAssemblyReference.cache

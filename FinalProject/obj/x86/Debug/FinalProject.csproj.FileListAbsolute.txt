@@ -1,0 +1,17 @@
+E:\c#\oop\FinalProject\FinalProject\bin\x86\Debug\FinalProject.exe.config
+E:\c#\oop\FinalProject\FinalProject\bin\x86\Debug\DBFinalProject.mdb
+E:\c#\oop\FinalProject\FinalProject\bin\x86\Debug\FinalProject.exe
+E:\c#\oop\FinalProject\FinalProject\bin\x86\Debug\FinalProject.pdb
+E:\c#\oop\FinalProject\FinalProject\obj\x86\Debug\FinalProject.Forms.frmAdminLogin.resources
+E:\c#\oop\FinalProject\FinalProject\obj\x86\Debug\FinalProject.Forms.forgetPassword.resources
+E:\c#\oop\FinalProject\FinalProject\obj\x86\Debug\FinalProject.frmLogin.resources
+E:\c#\oop\FinalProject\FinalProject\obj\x86\Debug\FinalProject.Forms.formHome.resources
+E:\c#\oop\FinalProject\FinalProject\obj\x86\Debug\FinalProject.Properties.Resources.resources
+E:\c#\oop\FinalProject\FinalProject\obj\x86\Debug\FinalProject.UserControls.Settings.resources
+E:\c#\oop\FinalProject\FinalProject\obj\x86\Debug\FinalProject.UserControls.ucAdminReports.resources
+E:\c#\oop\FinalProject\FinalProject\obj\x86\Debug\FinalProject.UserControls.ucCreateUser.resources
+E:\c#\oop\FinalProject\FinalProject\obj\x86\Debug\FinalProject.UserControls.ucManageItems.resources
+E:\c#\oop\FinalProject\FinalProject\obj\x86\Debug\FinalProject.csproj.GenerateResource.Cache
+E:\c#\oop\FinalProject\FinalProject\obj\x86\Debug\FinalProject.exe
+E:\c#\oop\FinalProject\FinalProject\obj\x86\Debug\FinalProject.pdb
+E:\c#\oop\FinalProject\FinalProject\obj\x86\Debug\FinalProject.csprojResolveAssemblyReference.cache
